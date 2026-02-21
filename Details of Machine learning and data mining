@@ -2,7 +2,7 @@ The two interrelated subjects: Machine Learning and Data Mining.
 
 Terms like “Artificial Intelligence”, “Machine Learning”, and even “Deep Learning”.
 
-At the highest level, <b>AI</b> is defined as leveraging computers or machines to mimic the problem-solving and the decision-making capabilities of the human mind.
+At the highest level, <b> AI </b> is defined as leveraging computers or machines to mimic the problem-solving and the decision-making capabilities of the human mind.
 And Machine Learning is a subset within AI that's more focused on the use of various self-learning algorithms that derive knowledge from data in order to predict outcomes.
 And then, finally, deep learning is a further subset within even machine learning, and deep learning is often thought of as scalable machine learning because it automates a lot of the feature extraction process away and eliminates some of the human intervention involved to enable the use of some really, really big data sets.
 
