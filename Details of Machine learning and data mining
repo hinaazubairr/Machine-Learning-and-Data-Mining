@@ -48,12 +48,12 @@ Reinforcement learning:
 
 
 
-The topics throughout this module: 
+The topics we will cover in this section:
 Artificial neurons: 
   that goes all the way back to biology and how our brains work. And we're going to cover this topic called Connectionism.
 
 We're going to look at how we can take that idea and that concept and construct and train our own neural networks to solve problems for us.
 
-As part of this, we're going to look at concepts such as data selection, a thing called data wrangling and various reduction techniques, and how to improve our training of neural networks.
+Concepts such as data selection, data wrangling and various reduction techniques, and how to improve our training of neural networks.
 Things like network topologies, training and various layers and things that we can add into our network to make it better, so for improved solutions. data augmentation of existing data, how can we make our data give us more. 
 the MCP neuron and the perceptron the two things
