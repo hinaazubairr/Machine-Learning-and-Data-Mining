@@ -1,0 +1,46 @@
+The two interrelated subjects: Machine Learning and Data Mining.
+
+Terms like “Artificial Intelligence”, “Machine Learning”, and even “Deep Learning”.
+
+At the highest level, <b>AI</b> is defined as leveraging computers or machines to mimic the problem-solving and the decision-making capabilities of the human mind.
+And Machine Learning is a subset within AI that's more focused on the use of various self-learning algorithms that derive knowledge from data in order to predict outcomes.
+And then, finally, deep learning is a further subset within even machine learning, and deep learning is often thought of as scalable machine learning because it automates a lot of the feature extraction process away and eliminates some of the human intervention involved to enable the use of some really, really big data sets.
+
+Machine learning: Youtube, Instagram pe koi content dekha agar hamne, to same wesa hi content hamara mobile hamen dekhaney laga. Aur agr ap pet ke owner hain to ap ko pet ki chezon ke advertisement dekhaney lagta ha. To machine kese itni smart hogayi? Machine learning is at the forefront of modern Artificial Intelligence and Data Science.
+Machine Learning is the science (and art) of programming computers so they can learn from data.
+Here is a slightly more general definition: [Machine Learning is the] field of study that gives computers the ability to learn without being explicitly programmed. —Arthur Samuel, 1959 
+And a more engineering-oriented one: A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E. —Tom Mitchell, 1997 
+
+Jesey spam filter me, machine ne khud seekh lia ke konsi emails spam hain aur kon si emails ham hain. Email classification.
+Your spam filter is a Machine Learning program that, given examples of spam emails (e.g., flagged by users) and examples of regular (nonspam, also called “ham”) emails, can learn to flag spam. 
+The examples that the system uses to learn are called the training set. Each training example is called a training instance (or sample). 
+In this case, the task T is to flag spam for new emails, the experience E is the training data, and the performance measure P needs to be defined; for example, you can use the ratio of correctly classified emails. This particular performance measure is called accuracy, and it is often used in classification tasks. 
+
+Self driving cars me bhi ap machines ko images detey hain aur wo phir khud chalati hai.
+Link: Download Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow - 66.4 MB
+This textbook covers practical aspects of Machine Learning theory utilising three primary libraries/frameworks used within the field: Scikit-learn, Keras, and Tensorflow.
+Chapter 1 - The Machine Learning Landscape:
+Machine learning has been around for decades in some specialized applications, such as Optical Character Recognition (OCR).
+the first ML application took over the world back in the 1990s: the spam filter.
+
+If you just download a copy of Wikipedia, your computer has a lot more data, but it is not suddenly better at any task. Thus, downloading a copy of Wikipedia is not Machine Learning.
+
+The first type of ML is called “supervised learning”: Supervised learning: me ap ke pas labelled images hoti hain :  is when we use labeled data sets to train algorithms to classify data or predict outcomes. 
+Labeled data, means that the rows in the data set are labeled, tagged, or classified in some interesting way that tells us something about that data. So, it could be a yes or a no, or it could be a particular category of some different attribute.
+
+Unsupervised learning: me buhat se data hota ha, jis ko program ko feed krna parta ha, aur program us data se learn karta ha, jese clustering data.
+Unsupervised Learning. This is when we use machine learning algorithms to analyze and cluster unlabeled data sets, and this method helps us discover hidden patterns or groupings without the need for human intervention. So, we're using unlabeled data here. 
+the different techniques for unsupervised learning. One method is “clustering”. And a real-world example of this is when organizations try to do customer segmentation.
+
+Reinforcement learning: me ek environment aur ek agent hota hai. Aur wo agent us env pe kuch harkaten krta haii to ab env ke sath sath ham seekhtey ja rahe hain.  Aur is tarah wo env ko dekh dekh kr buhat seekhta ha. 
+https://www.youtube.com/watch?v=lsf060bLH_Y
+
+The topics throughout this module: 
+artificial neurons that goes all the way back to biology and how our brains work. And we're going to cover this topic called Connectionism.
+We're going to look at how we can take that idea and that concept and construct and train our own neural networks to solve problems for us.
+As part of this, we're going to look at concepts such as data selection, a thing called data wrangling and various reduction techniques, and how to improve our training of neural networks.
+As we continue on our journey, we're going to cover more advanced concepts that you would look at in neural networks. So this is things like network topologies, training and various layers and things that we can add into our network to make it better, so for improved solutions. 
+We're going to then look at augmentation of existing data, how can we make our data give us more. How can we get more out of our data? 
+And towards the end module, we're going to look at the real world. So why do we do? what we do? Why do we want to make these systems? How can they benefit people? So we're going to look at deployment of machine learning models for real world solutions. So, what do you need to consider in order for something to be successful?
+And then we're going to look at ethical use of AI and a topic called AI for social good. 
+the MCP neuron and the perceptron the two things
