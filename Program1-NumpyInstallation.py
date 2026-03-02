@@ -1,4 +1,4 @@
-# Program Name: Program10-NumpyInstallation
+# Program Name: Program1-NumpyInstallation
 
 
 # The two main tools that install Python packages are pip and conda. Their functionality partially overlaps (e.g. both can install numpy), however, they can also work together. 
@@ -31,5 +31,6 @@ After installing NumPy, verify the installation by running the following in a Py
 import numpy as np
 print(np.__version__)
 # This should print the installed version of NumPy without errors.
+
 
 
